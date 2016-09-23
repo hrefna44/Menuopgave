@@ -1,0 +1,45 @@
+#menu {
+text-align: center;
+padding: 20px 0 20px 0;
+background-color: #e6e6e6;
+width: 100%;
+}
+
+#menu li {
+list-style: none;
+display: inline;
+font-size: 1.2em;
+font-weight: lighter;
+padding: 20px;
+}
+
+#menu a {
+color: white;
+font-family: helvetica, arial, sans-serif;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+#menu a.active {
+color: #9a9a9a;
+}
+
+#menu a:hover {
+color: #9a9a9a;
+}
+
+#section1 {
+background-color: #e6e6e6;
+margin-top: 20px;
+width: 100%;
+Height: 100px;
+}
+
+h1 {
+padding-top: 10px;
+text-align: center; 
+}
+
+p {
+text-align: center;
+}
